@@ -1,10 +1,15 @@
 # Sigma
 Hello, Vaughn here, this is a Money Percentage Calculator that I use to divide up my finances in a particular way to avoid misusing my money.
 I have the set percentages as follows,
+
 40% = Invest
+
 30% = The money I live off of
+
 15% = Taxes
+
 10% = Give away (This could be to a church for most people, or just to people who need it)
+
 5% = Literally whatever I want
 
 The main purpose of this is the invest first, spend after that, and If i need to have a certain amount be higher, 
